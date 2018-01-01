@@ -1,0 +1,28 @@
+{
+    "ApplicationName": "TellMommyServices",
+    "StackName": "cloud9-TellMommyServices",
+    "DeploymentMethod": "cloudformation",
+    "RestApiId": "6fx6hhc4f6",
+    "Functions": {
+        "FamilyService": {
+            "PhysicalId": {
+                "us-east-1": "cloud9-TellMommyServices-FamilyService-1IGPJPFAFW7AG"
+            }
+        },
+        "ChoreService": {
+            "PhysicalId": {
+                "us-east-1": "cloud9-TellMommyServices-ChoreService-M2P9MRIJVR07"
+            }
+        },
+        "ChoreActivityService": {
+            "PhysicalId": {
+                "us-east-1": "cloud9-TellMommyServices-ChoreActivityService-1UNU84M5SMAF3"
+            }
+        },
+        "LoginService": {
+            "PhysicalId": {
+                "us-east-1": "cloud9-TellMommyServices-LoginService-1DR40DC438547"
+            }
+        }
+    }
+}
