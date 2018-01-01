@@ -1,0 +1,10 @@
+{
+    "LoginService": {
+        "lambda": {
+            "action": "login",
+            "email": "ben@mamabird.biz",
+            "password": "helloPassword",
+            "familyId": "12345"
+        }
+    }
+}

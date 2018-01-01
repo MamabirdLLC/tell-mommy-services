@@ -1,0 +1,9 @@
+{
+    "ChoreActivityService": {
+        "lambda": {
+            "familyId": "someLongFamilyId",
+            "childId": "blahblahblah",
+            "choreId": "someChoreId"
+        }
+    }
+}

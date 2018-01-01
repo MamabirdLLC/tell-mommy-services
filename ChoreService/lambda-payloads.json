@@ -1,0 +1,7 @@
+{
+    "ChoreService": {
+        "lambda": {
+            "choreName": "Mow the lawn"
+        }
+    }
+}

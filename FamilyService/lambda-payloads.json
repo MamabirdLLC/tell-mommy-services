@@ -1,0 +1,30 @@
+{
+    "FamilyService": {
+        "lambda": {
+            "familyName": "Finch Family",
+            "id": "b51b3bbf-6bbb-48e2-88e5-db8bb19539bf",
+            "parents": [
+                {
+                    "parentName": "Greg"
+                },
+                {
+                    "parentName": "Tammy"
+                }
+            ],
+            "children": [
+                {
+                    "childName": "Anna"
+                },
+                {
+                    "childName": "Lizzy"
+                },
+                {
+                    "childName": "Ben"
+                },
+                {
+                    "childName": "Jacob"
+                }
+            ]
+        }
+    }
+}
